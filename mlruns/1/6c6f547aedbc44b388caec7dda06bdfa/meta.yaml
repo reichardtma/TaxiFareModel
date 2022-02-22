@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reichardtma/code/reichardtma/TaxiFareModel/mlruns/1/6c6f547aedbc44b388caec7dda06bdfa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6c6f547aedbc44b388caec7dda06bdfa
+run_uuid: 6c6f547aedbc44b388caec7dda06bdfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645535824577
+status: 1
+tags: []
+user_id: unknown
